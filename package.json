@@ -1,0 +1,21 @@
+{
+  "name": "ba9557d5c052f5db3c753bda5cdb2b16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/ba9557d5c052f5db3c753bda5cdb2b16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/ba9557d5c052f5db3c753bda5cdb2b16"
+  },
+  "homepage": "https://gist.github.com/ba9557d5c052f5db3c753bda5cdb2b16"
+}
